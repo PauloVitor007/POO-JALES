@@ -17,4 +17,4 @@ class Jogador:
 
     def mostrar_energia(self):
         return self.__energia
-2.2 Getters e Setters
+#2.2 Getters e Setters
